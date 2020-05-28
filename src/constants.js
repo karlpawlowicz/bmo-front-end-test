@@ -1,0 +1,1 @@
+export const API_URL = 'http://opentable.herokuapp.com/api/restaurants?city=';
