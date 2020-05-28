@@ -41,7 +41,7 @@
 
 4. **How would you improve the API that you just used?**
 
-   The API may already do this, but instead of filtering restaurants on the client, the API route should accept filter parameters. Outside of the scope of the project requirements and on a performance note, I would recommend returning source sets for images, instead of a single size, although this could be handled on the client as well using something like an image resize service.
+   The API may already do this, but instead of filtering restaurants on the client, the API route should accept filter parameters. Displaying the cuisine type and rating were in the requirements, but were not included in the API response. These would need to be added. Outside of the scope of the project requirements and on a performance note, I would recommend returning source sets for images, instead of a single size, although this could be handled on the client as well using something like an image resize service.
 
 5. **Please describe yourself using JSON.**
 
