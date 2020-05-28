@@ -43,7 +43,7 @@ const HomePage = () => {
               onChange={handleChange}
               marginBottomLarge
             />
-            <Submit name="submit" type="Submit" block />
+            <Submit name="submit" type="Submit" value="Submit" block />
           </form>
         </Column>
       </Row>
