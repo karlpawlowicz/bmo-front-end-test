@@ -1,6 +1,6 @@
 # BMO Interview Test [![CI](https://github.com/karlpawlowicz/package-test/workflows/CI/badge.svg?branch=master)](https://github.com/karlpawlowicz/package-test/actions?query=workflow%3ACI+branch%3Amaster)
 
-The app can be viewed by navigating to the S3 bucket that the master branch is configured to deploy to: http://bmo-interview-test.s3-website.ca-central-1.amazonaws.com. The S3 bucket is not yet configured to handle any routes, such as the `/:city` route.
+The app can be viewed by navigating to the S3 bucket that the master branch is configured to deploy to: http://bmo-front-end-test.s3-website.ca-central-1.amazonaws.com. The S3 bucket is not yet configured to handle any routes, such as the `/:city` route.
 
 ## Features
 
