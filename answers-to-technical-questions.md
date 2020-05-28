@@ -11,6 +11,7 @@
    - Pagination: The API returns `total_entries`, `per_page` and `current_page` values, which should be used to create pagination
    - redux-query-sync: Adding more filters and using redux-query-sync to store them in Redux
    - Sagas
+   - Skeleton Screens: I am a big fan of this UX pattern and would implement this as the loading state
    - SSR
    - styled-components: Refactor to use more utilities/shared components
    - Tests: I would continue to add more unit tests, starting with testing the Redux actions
